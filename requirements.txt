@@ -1,6 +1,6 @@
 asgiref==3.6.0
 awsebcli==3.20.3
--e git+https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5@8dd4c8040c6c30352cd405931fd783d65ef669da#egg=bam
+-e git+https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5@8e5b64749bab4b660d74afae9f89ef066b807183#egg=bam
 botocore==1.23.54
 cement==2.8.2
 certifi==2022.12.7
@@ -8,7 +8,6 @@ charset-normalizer==2.0.12
 colorama==0.4.3
 Django==4.1
 future==0.16.0
-gunicorn==20.1.0
 idna==3.4
 jmespath==0.10.0
 pathspec==0.9.0
