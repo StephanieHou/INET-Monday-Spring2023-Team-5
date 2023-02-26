@@ -1,5 +1,4 @@
 awsebcli==3.20.3
--e git+https://github.com/gcivil-nyu-org/INET-Monday-Spring2023-Team-5@08fa6224d4868488d6a26b276247899f1b1f448b#egg=bam
 botocore==1.23.54
 cement==2.8.2
 certifi==2022.12.7
