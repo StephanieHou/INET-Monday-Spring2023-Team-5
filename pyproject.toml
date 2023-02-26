@@ -15,7 +15,7 @@ readme = "README.md"
 python = "^3.8"
 Django = "4.1"
 python-decouple = "3.4"
-eb = "^0.1.5"
+awsebcli = "^3.20.3"
 
 
 [build-system]
