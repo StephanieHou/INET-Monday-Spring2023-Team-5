@@ -15,3 +15,7 @@ $ poetry install
 $ poetry shell
 (.venv) $ python manage.py runserver
 ```
+
+## BAM Dev deployment
+
+http://bam-env.eba-5rxpgt78.us-west-2.elasticbeanstalk.com/
